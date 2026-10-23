@@ -1,4 +1,4 @@
-# 嗨，我是小蠍 (Scorpio) 🇹🇼
+# 嗨，我是小蠍 (Scorpio) <img src="./assets/taiwan.svg" width="28" height="20" alt="🇹🇼" valign="middle" />
 
 在台灣寫寫程式、發發呆，討厭沒有因果關係的黑盒與廢話。  
 目前專注在 Android 系統工具、注音輸入法與後端架構。
@@ -6,7 +6,7 @@
 ---
 
 ### 📌 關於我 (About Me)
-- 📍 **所在地**：台灣 (Taiwan 🇹🇼)
+- 📍 **所在地**：台灣 (Taiwan <img src="./assets/taiwan.svg" width="18" height="13" alt="🇹🇼" valign="middle" /> 🇹🇼)
 - 💻 **專注領域**：Android (AOSP / IME)、TypeScript / JavaScript、Kotlin、分散式架構
 - 🎧 **日常偏好**：J-POP / Anime OST（Aimer、澤野弘之、YOASOBI）、咖啡、吹冷氣發呆
 - ☕ **開發風格**：實事求是，代碼邏輯必須清楚可追溯
@@ -28,5 +28,5 @@
 ---
 
 <p align="center">
-  <i>Made with ☕ in Taiwan 🇹🇼</i>
+  <i>Made with ☕ in Taiwan <img src="./assets/taiwan.svg" width="16" height="12" alt="🇹🇼" valign="middle" /> 🇹🇼</i>
 </p>
